@@ -18,6 +18,6 @@ Running:
 `deployer dep init`
 This command will create a file on your host called `deploy.php`.
 
-| :whale: Docker Hub      | Link                                             |
-|-------------------------|--------------------------------------------------|
-| raisiqueira/php-deployer| https://hub.docker.com/r/raisiqueira/php-deployer/|
+| :whale: Docker Hub      | Link                                              |
+|-------------------------|-------------------------------------------------- |
+| raisiqueira/php-deployer|https://hub.docker.com/r/raisiqueira/php-deployer/ |
